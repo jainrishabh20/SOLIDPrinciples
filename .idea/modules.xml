@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DependencyInversionPrinicple/DependencyInversionPrinicple.iml" filepath="$PROJECT_DIR$/DependencyInversionPrinicple/DependencyInversionPrinicple.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceSegmentedPrincilple/InterfaceSegmentedPrincilple.iml" filepath="$PROJECT_DIR$/InterfaceSegmentedPrincilple/InterfaceSegmentedPrincilple.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/SIngleResponsibilityPriciple/SIngleResponsibilityPriciple.iml" filepath="$PROJECT_DIR$/SIngleResponsibilityPriciple/SIngleResponsibilityPriciple.iml" />
